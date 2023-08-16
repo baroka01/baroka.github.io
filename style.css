@@ -1,0 +1,11 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: rgb(0, 0, 0);
+  background-image: url(images/bag.png);
+}
+#gallery {
+  background-color: black;
+}
+section {
+  padding-top: 5rem;
+}
